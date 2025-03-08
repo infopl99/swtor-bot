@@ -1,2 +1,2 @@
 discord.py
-sqlite3
+python-dotenv  # Si tu utilises un fichier .env pour le token
