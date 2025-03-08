@@ -2,7 +2,7 @@ services:
   - type: worker
     name: swtor-bot
     runtime: python
-    repo: https://github.com/TON-USERNAME/swtor-bot
+    repo: https://github.com/infopl99/swtor-bot
     branch: main
     buildCommand: "pip install -r requirements.txt"
     startCommand: "python bot.py"
